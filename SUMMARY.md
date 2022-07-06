@@ -23,4 +23,6 @@
 
 ## 讀書心得
 
-* [法律思維-王澤鑑](du-shu-xin-de/fa-lv-si-wei-wang-ze-jian.md)
+* [法律思維-王澤鑑](du-shu-xin-de/fa-lv-si-wei-wang-ze-jian/README.md)
+  * [學習的正確姿態](du-shu-xin-de/fa-lv-si-wei-wang-ze-jian/xue-xi-de-zheng-que-zi-tai.md)
+  * [請求權案例解析](du-shu-xin-de/fa-lv-si-wei-wang-ze-jian/qing-qiu-quan-an-li-jie-xi.md)
